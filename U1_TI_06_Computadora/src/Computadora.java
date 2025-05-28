@@ -2,6 +2,7 @@ public class Computadora {
     private String Marca;
     private String modelo;
     private boolean estado;
+    private String dueño;
 
     public String getMarca() {
         return Marca;
@@ -28,4 +29,13 @@ public class Computadora {
         }
 
     }
+    public String getDueño() {
+        return dueño;
+    }
+    public void setDueño(String dueño) {
+        this.dueño = dueño;
+    
+    }
+
+    
 }
