@@ -9,6 +9,6 @@ public class Main {
         computadora.encender();
         computadora.apagar();
         System.out.println(computadora.getModelo());
-
+        System.out.println("==============================");
     }
 }
