@@ -3,6 +3,7 @@ public class Computadora {
     private String modelo;
     private boolean estado;
     private String dueño;
+    private String costo;
 
     public String getMarca() {
         return Marca;
@@ -35,6 +36,12 @@ public class Computadora {
     public void setDueño(String dueño) {
         this.dueño = dueño;
     
+    }
+    public String getCosto() {
+        return costo;
+    }
+    public void setCosto(String costo) {
+        this.costo = costo;
     }
 
     
