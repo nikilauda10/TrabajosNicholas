@@ -16,6 +16,7 @@ public class Main {
         double imc = people.calcularImc();
 
         String mensaje = people.clasificarImc();
+        System.out.println("________________________________");
         System.out.println(people.getNombre() + " IMC: " + imc + " clasificacion" + mensaje);
 
     }
