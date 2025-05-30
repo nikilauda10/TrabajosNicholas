@@ -40,4 +40,5 @@ public class Estudiante {
     public boolean aprobado() {
         return calcularPromedio() >= 70;
     }
+    
 }
