@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/TrabajosNicholas.iml" filepath="$PROJECT_DIR$/.idea/TrabajosNicholas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/U1_TI_05_promedio/U1_TI_05_promedio.iml" filepath="$PROJECT_DIR$/U1_TI_05_promedio/U1_TI_05_promedio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/U1_TI_06_Computadora/U1_TI_06_Computadora.iml" filepath="$PROJECT_DIR$/U1_TI_06_Computadora/U1_TI_06_Computadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/U1_TI_07_MasaCorporal/U1_TI_07_MasaCorporal.iml" filepath="$PROJECT_DIR$/U1_TI_07_MasaCorporal/U1_TI_07_MasaCorporal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/U1_TI_08_Contra/U1_TI_08_Contra.iml" filepath="$PROJECT_DIR$/U1_TI_08_Contra/U1_TI_08_Contra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practica/practica.iml" filepath="$PROJECT_DIR$/practica/practica.iml" />
+    </modules>
+  </component>
+</project>
